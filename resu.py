@@ -50,7 +50,7 @@ def rank_resume(resume_text, keyword):
     return resume_text.lower().count(keyword.lower())
 
 # Directory with resumes and a keyword for ranking
-resume_directory = r'C:\Users\durga\Downloads'
+resume_directory = r'C:\Users\durga\Downloads' #mention your own path 
 keyword = "Python"
 ranked_resumes = []
 
