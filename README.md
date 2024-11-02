@@ -93,4 +93,4 @@ This project automates the process of reading, extracting, and ranking resumes f
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed as "None".
